@@ -1,4 +1,4 @@
 # hello-world
 
-Bravo! I just started my first guthub project.
+Bravo! I just started my first github project.
 
